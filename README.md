@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NishantMalik360
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning jharkhand
+- 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate with (still finding)
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
