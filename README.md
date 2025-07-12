@@ -1,6 +1,6 @@
 👋 Hi, I'm Nishant Malik!
 
-🎓 Currently pursuing a B.Sc. in Data Science and Applications at IIT Madras.
+🎓 Currently pursuing a BS in Data Science and Applications at IIT Madras.
 💻 Aspiring web developer with a passion for coding and learning new technologies.
 📚 Enthusiastic about transforming data into actionable insights.
 🚀 Always eager to collaborate on innovative projects and expand my skill set.
