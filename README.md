@@ -1,16 +1,15 @@
 👋 Hi, I'm Nishant Malik!
 
-🎓 Currently pursuing a BS in Data Science and Applications at IIT Madras.
-💻 Aspiring web developer with a passion for coding and learning new technologies.
-📚 Enthusiastic about transforming data into actionable insights.
-🚀 Always eager to collaborate on innovative projects and expand my skill set.
+AI/ML Engineer | 2nd Year BTech CSE
+Building scalable ML systems, NLP pipelines, and practical AI applications.
 
-🔍 Areas of Interest:
-- Data Science and Analytics
-- Web Development (HTML, CSS, JavaScript, React)
-- Machine Learning and Artificial Intelligence
-- Open Source Contributions
+💻 Tech: Python • C • Machine Learning • NLP (NLTK) • Data Analysis • Basic Web Dev
+🚀 Projects: AI Resume Analyzer, Job Matcher Engine, AI Teaching Assistant
+📦 Love creating clean, logical, and deployment-ready solutions
+🧠 Learning: ML, DL, System Design, and full-stack fundamentals
+🌱 Always improving through hackathons, projects, and real-world problem solving
 
+👉 Open to collaborations, contributions, and innovative AI ideas.
 🌟 Let's connect and create something amazing together!
 
 📫 Reach out to me at nishantmalik360@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/nishant-m-89975b278/).
