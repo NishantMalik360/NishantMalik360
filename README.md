@@ -3,7 +3,7 @@
 AI/ML Engineer | 2nd Year BTech CSE
 Building scalable ML systems, NLP pipelines, and practical AI applications.
 
-💻 Tech: Python • C • Machine Learning • NLP (NLTK) • Data Analysis • Basic Web Dev
+💻 Tech: Python • C++ • Machine Learning • NLP (NLTK) • Data Analysis • Basic Web Dev
 🚀 Projects: AI Resume Analyzer, Job Matcher Engine, AI Teaching Assistant
 📦 Love creating clean, logical, and deployment-ready solutions
 🧠 Learning: ML, DL, System Design, and full-stack fundamentals
